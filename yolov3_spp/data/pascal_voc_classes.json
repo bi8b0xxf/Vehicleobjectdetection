@@ -1,0 +1,11 @@
+{
+
+     "bus": 1,
+    "truck": 2,
+    "car": 3,
+    "jeep": 4,
+    "suv": 5,
+    "sportscar": 6,
+    "bicycle": 7,
+    "motorbike": 8
+}
